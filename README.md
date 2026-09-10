@@ -1,4 +1,4 @@
-# 🇮🇳 Lok Sabha Elections Analysis (2014 & 2019)
+# Lok Sabha Elections Data Analysis - 2014 Vs 2019
 
 ## 📌 Project Overview
 The main objective of this project is to provide a detailed examination of electoral trends, voting patterns, and key metrics across India's parliamentary constituencies during the 2014 and 2019 Lok Sabha elections. This analysis aims to enrich public understanding of the electoral process in India and highlight key insights that have shaped the country's democracy over these pivotal election years.
