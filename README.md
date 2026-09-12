@@ -40,5 +40,3 @@ The main objective of this project is to provide a detailed examination of elect
 * **Targeted SVEEP Campaigns:** Electoral authorities should focus awareness initiatives on low-turnout, high-GDP urban centers.
 * **Automated Data Pipelines:** Transition entirely to automated Python ETL workflows for future election cycles to minimize manual data handling errors and reduce time-to-insight.
 
----
-*Prepared by: **Rohan***
